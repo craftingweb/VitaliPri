@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/html-yellow?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue"/>
 
 
 
