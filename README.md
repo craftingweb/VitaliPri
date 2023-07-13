@@ -1,10 +1,8 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/html-yellow?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
-<!--
-**VitaliPri/VitaliPri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
