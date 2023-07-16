@@ -1,4 +1,4 @@
-### Hi there 👋   I'm Vitali!
+# Hi there, I'm Vitali! 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliPri&show_icons=true&theme=radical)
 <div class="display:flex">
 <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
