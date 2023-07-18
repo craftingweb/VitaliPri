@@ -8,6 +8,9 @@
 <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=red"/>
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue"/>
 </div>
 
 
