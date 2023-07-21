@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on Blog Platform
+- 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Sequalize
 - 👯 I’m looking to collaborate on Front End Development
 - 🤔 I’m looking for help with Back End 
