@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=red"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js&logoColor=black"/>
 </div>
 
 
