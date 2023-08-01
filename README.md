@@ -19,8 +19,6 @@
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Sequalize
 - 👯 I’m looking to collaborate on Open Source Project
-- 🤔 I’m looking for help with Back End 
-- 💬 Ask me about HTML & CSS
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
 - 😄 Pronouns: /viˈta.li/
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician: Ada Lovelace, the daughter of the famous poet Lord Byron.
