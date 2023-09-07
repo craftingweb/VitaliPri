@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
 </div>
 
 
