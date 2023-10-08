@@ -18,8 +18,8 @@
 
 
 
-- 🔭 I’m currently working on Capstone Project 
-- 🌱 I’m currently learning PERN Stack
+- 🔭 I’m currently working on Capstone Project: Airline Ticket Manager with team of 4 
+- 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on Open Source Project
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
 - 😄 Pronouns: /viˈta.li/
