@@ -18,8 +18,8 @@
 
 
 
-- 🔭 I’m currently working on Capstone Project: Airline Ticket Manager with team of 4 
-- 🌱 I’m currently learning TypeSciprt
+- 🔭 I’m currently Frontend Developer Intern @ Unadat
+- 🌱 I’m learning TypeSciprt
 - 👯 I’m looking to collaborate on Open Source Project
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
 - 😄 Pronouns: /viˈta.li/
