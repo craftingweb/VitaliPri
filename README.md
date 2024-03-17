@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
 <img src="https://img.shields.io/badge/MySQL-lightgray?style=for-the-badge&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JQuery-lightgray?style=for-the-badge&logo=jquery&logoColor=blue"/>
 </div>
 
 
