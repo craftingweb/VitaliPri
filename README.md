@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently Frontend Developer Intern @ Unadat
-- 🌱 I’m learning TypeSciprt
+- 🌱 I’m learning PWA
 - 👯 I’m looking to collaborate on Open Source Project
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
 - 😄 Pronouns: /viˈta.li/
