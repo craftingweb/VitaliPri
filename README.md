@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
 <img src="https://img.shields.io/badge/MySQL-lavender?style=for-the-badge&logo=mysql&logoColor=blue"/>
 <img src="https://img.shields.io/badge/PHP-slateblue?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JQuery-lightgray?style=for-the-badge&logo=jquery&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JQuery-silver?style=for-the-badge&logo=jquery&logoColor=blue"/>
 </div>
 
 
